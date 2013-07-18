@@ -247,7 +247,7 @@
           }
         },
         "2": {
-          "title": "ii. Da tramitação dos Projetos (239-247)\n",
+          "title": "ii. Das indicações (219)\n",
           "id": "94.gd30a210334d4162d7",
           "attr": {
             "style": {
@@ -256,7 +256,7 @@
           }
         },
         "3": {
-          "title": "iii. Da Primeira Discussão (248-253)\n",
+          "title": "iii. Dos Requerimentos",
           "id": "95.gd30a210334d4162d7",
           "attr": {
             "style": {
@@ -279,7 +279,18 @@
                   "ideas": {
                     "1": {
                       "title": "texto",
-                      "id": "103.gd30a210334d4162d7"
+                      "id": "103.gd30a210334d4162d7",
+                      "ideas": {
+                        "1": {
+                          "title": "Aqui seria o texto legal",
+                          "id": 135,
+                          "attr": {
+                            "style": {
+                              "background": "#ffffff"
+                            }
+                          }
+                        }
+                      }
                     },
                     "2": {
                       "title": "doutrina",
@@ -311,20 +322,11 @@
                   "background": "#666699"
                 }
               }
-            },
-            "4": {
-              "title": "Das Moções (228-231)\n",
-              "id": "100.gd30a210334d4162d7",
-              "attr": {
-                "style": {
-                  "background": "#666699"
-                }
-              }
             }
           }
         },
         "4": {
-          "title": "iv. Da Segunda Discussão (254-258)\n",
+          "title": "v. Dos Projetos\n",
           "id": "101.gd30a210334d4162d7",
           "attr": {
             "style": {
@@ -379,15 +381,6 @@
             }
           }
         },
-        "5": {
-          "title": "v. Da Redação Final (259-268)\n",
-          "id": "114.gd30a210334d4162d7",
-          "attr": {
-            "style": {
-              "background": "#99cc00"
-            }
-          }
-        },
         "6": {
           "title": "vi. Dos Substitutivos e das Emendas (269-273)\n",
           "id": "115.gd30a210334d4162d7",
@@ -405,6 +398,15 @@
               "background": "#99cc00"
             }
           }
+        },
+        "3.5": {
+          "title": "iv. Das Moções (228-231)\n",
+          "id": "114.gd30a210334d4162d7",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
         }
       }
     },
@@ -415,7 +417,8 @@
         "style": {
           "background": "#ffcc00"
         }
-      }
+      },
+      "ideas": {}
     },
     "6": {
       "title": "XI. DA ELABORAÇÃO LEGISLATIVA ESPECIAL (329-359)\n",
@@ -423,6 +426,55 @@
       "attr": {
         "style": {
           "background": "#ffcc00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "i. Dos Orçamentos",
+          "id": 137,
+          "ideas": {
+            "1": {
+              "title": "Disposições preliminares (329-334)\n",
+              "id": 140,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "2": {
+              "title": "Da tramitação dos Projetos de Leis Orçamentárias\n   (335-346)\n",
+              "id": 141,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "ii. Da concessão de Títulos Honoríficos (347-351)\n",
+          "id": 138,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "3": {
+          "title": "iii. Dos membros do Tribunal de Contas do Município\n(352-359)\n",
+          "id": 139,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
         }
       }
     },
@@ -441,6 +493,44 @@
       "attr": {
         "style": {
           "background": "#ffcc00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "i. Do comparecimento do Prefeito à Câmara (379-380)\n",
+          "id": 142,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "ii. Da convocação dos Secretários Municipais (381-384)\n",
+          "id": 143,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "3": {
+          "title": "iii. Das Contas (385-388)\n",
+          "id": 144,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "4": {
+          "title": "iv. Da responsabilidade do Prefeito (389-391)\n",
+          "id": 145,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
         }
       }
     },
@@ -735,16 +825,149 @@
             "style": {
               "background": "#99cc00"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Disposições preliminares (276-281)\n",
+              "id": 119,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "2": {
+              "title": "Dos Apartes (282-283)\n",
+              "id": 120,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "3": {
+              "title": "Do encerramento da discussão (284-286)\n",
+              "id": 121,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            }
           }
-        }
-      }
-    },
-    "-5": {
-      "title": "X. DA FASE ESPECIAL DA SESSÃO LEGISLATIVA\n(324-328)\n",
-      "id": 19,
-      "attr": {
-        "style": {
-          "background": "#ffcc00"
+        },
+        "2": {
+          "title": "ii. Da Votação",
+          "id": 122,
+          "ideas": {
+            "1": {
+              "title": "Disposições preliminares (287-289)\n",
+              "id": 123,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "2": {
+              "title": "Do encaminhamento da Votação (290-292)\n",
+              "id": 124,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "3": {
+              "title": "Dos processos de Votação (293-300)\n",
+              "id": 125,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "4": {
+              "title": "Da verificação nominal de votação (301)\n",
+              "id": 126,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "5": {
+              "title": "Da declaração de Voto (302-304)\n",
+              "id": 127,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "6": {
+              "title": "Do tempo de uso da palavra (305-306)\n",
+              "id": 128,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "3": {
+          "title": "iii. Do tempo de uso da palavra (305-306)\n",
+          "id": 129,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "4": {
+          "title": "iv. Das questões de ordem e dos precedentes regimentais\n",
+          "id": 130,
+          "ideas": {
+            "1": {
+              "title": "Das questões de ordem (307-310)\n",
+              "id": 132,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "2": {
+              "title": "Do recurso às decisões do Presidente (311-312)\n",
+              "id": 133,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "3": {
+              "title": "Dos precedentes regimentais (313-314)\n",
+              "id": 134,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
         }
       }
     },
@@ -769,6 +992,15 @@
     "-8": {
       "title": "XVI. DA REFORMA DO REGIMENTO INTERNO (392-395)\n",
       "id": 25,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-5": {
+      "title": "X. DA FASE ESPECIAL DA SESSÃO LEGISLATIVA\n(324-328)\n",
+      "id": 19,
       "attr": {
         "style": {
           "background": "#ffcc00"
