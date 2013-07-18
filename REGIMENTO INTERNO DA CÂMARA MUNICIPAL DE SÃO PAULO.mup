@@ -1,0 +1,780 @@
+{
+  "title": "REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SÃO PAULO",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "I. DA CÂMARA MUNICIPAL (1-4)",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "i. Das Disposições Preliminares (1-2)",
+          "id": 26,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "ii. Da Instalação (3-4)",
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "2": {
+      "title": "III. DAS COMISSÕES (38-100)",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "i. Disposições Preliminares (38)",
+          "id": 42,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "ii. Das Comissões Permanentes",
+          "id": 43,
+          "ideas": {
+            "1": {
+              "title": "Disposições Preliminares (39)",
+              "id": 44,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "2": {
+              "title": "Da composição das Comissões Permanentes (40-45)\n",
+              "id": 46,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "3": {
+              "title": "Da competência das Comissões Permanentes (46-48)\n",
+              "id": 47,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "4": {
+              "title": "Dos Presidentes e Vice-Presidentes da Comissões\nPermanentes (49-54)\n",
+              "id": 48,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "5": {
+              "title": "Das subcomissões (55-56)\n",
+              "id": 49,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "6": {
+              "title": "Das reuniões (57-61)\n",
+              "id": 50,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "7": {
+              "title": "Dos trabalhos (62-73)\n",
+              "id": 51,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "8": {
+              "title": "Dos pareceres (74-80)\n",
+              "id": 52,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "9": {
+              "title": "Da deliberação sobre proposições pelas Comissões Permanentes (81-84)\n",
+              "id": 53,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "10": {
+              "title": "Das audiências públicas (85-88)\n",
+              "id": 54,
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "3": {
+          "title": "iii. Das Comissões Temporárias (89-100)\n",
+          "id": 55,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "3": {
+      "title": "V. DOS VEREADORES (106-131)",
+      "id": 13,
+      "ideas": {
+        "1": {
+          "title": "i. Da posse (106)\n",
+          "id": 58,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "ii. Dos direitos e deveres dos Vereadores (107-110)\n",
+          "id": 59,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "3": {
+          "title": "iii. Das faltas e licenças (111-118)\n",
+          "id": 60,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "4": {
+          "title": "iv. Dos Líderes e Vice-líderes (119-121)\n",
+          "id": 61,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "5": {
+          "title": "v. Da remuneração (122-124)\n",
+          "id": 62,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "6": {
+          "title": "vi. Da extinção e perda do mandato (125-131)\n",
+          "id": 63,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "4": {
+      "title": "VII. DAS PROPOSIÇÕES (211-275)",
+      "id": 15,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "i. Disposições preliminares (211-218)\n",
+          "id": "92.gd30a210334d4162d7",
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "ii. Da tramitação dos Projetos (239-247)\n",
+          "id": "94.gd30a210334d4162d7",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "3": {
+          "title": "iii. Da Primeira Discussão (248-253)\n",
+          "id": "95.gd30a210334d4162d7",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Disposições preliminares (220-222)\n",
+              "id": "97.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "ART. 220",
+                  "id": "102.gd30a210334d4162d7",
+                  "ideas": {
+                    "1": {
+                      "title": "texto",
+                      "id": "103.gd30a210334d4162d7"
+                    },
+                    "2": {
+                      "title": "doutrina",
+                      "id": "104.gd30a210334d4162d7"
+                    },
+                    "3": {
+                      "title": "jurisprudência",
+                      "id": "105.gd30a210334d4162d7",
+                      "ideas": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Dos Requerimentos sujeitos a despacho de plano pelo\nPresidente (223-224)\n",
+              "id": "98.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "3": {
+              "title": "Dos Requerimentos sujeitos a deliberação do Plenário (225-227)\n",
+              "id": "99.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "4": {
+              "title": "Das Moções (228-231)\n",
+              "id": "100.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "iv. Da Segunda Discussão (254-258)\n",
+          "id": "101.gd30a210334d4162d7",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Disposições preliminares (232-238)",
+              "id": "107.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "2": {
+              "title": "Da tramitação dos Projetos (239-247)\n",
+              "id": "108.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "3": {
+              "title": "Da Primeira Discussão (248-253)\n",
+              "id": "109.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "4": {
+              "title": "Da Segunda Discussão (254-258)\n",
+              "id": "110.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "5": {
+              "title": "Da Redação Final (259-268)\n",
+              "id": "111.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "v. Da Redação Final (259-268)\n",
+          "id": "114.gd30a210334d4162d7",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "6": {
+          "title": "vi. Dos Substitutivos e das Emendas (269-273)\n",
+          "id": "115.gd30a210334d4162d7",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "7": {
+          "title": "vii. Da retirada e arquivamento de Proposições (274-275)\n",
+          "id": "116.gd30a210334d4162d7",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "title": "IX. DA TRAMITAÇÃO ESPECIAL E URGENTE DE\n PROPOSITURAS DE INICIATIVA DOS CIDADÃOS\n (315-323)\n",
+      "id": 17,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "6": {
+      "title": "XI. DA ELABORAÇÃO LEGISLATIVA ESPECIAL (329-359)\n",
+      "id": 20,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "7": {
+      "title": "XIII. DA SECRETARIA DA CÂMARA (372-373)\n",
+      "id": 22,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "8": {
+      "title": "XV. DO PREFEITO E DOS SECRETÁRIOS MUNICIPAIS\n(379-391)",
+      "id": 24,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-1": {
+      "title": "II. DA MESA DA CÂMARA (5-37)",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "i. Disposições Preliminares (5-8)",
+          "id": 30,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "ii. Da Eleição da Mesa (9-11)",
+          "id": 34,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "3": {
+          "title": "iii. Das Atribuições da Mesa (12-15)",
+          "id": 35,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "4": {
+          "title": "iv. Do Presidente (16-23)",
+          "id": 36,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "5": {
+          "title": "v. Dos Vice-Presidentes (49-54)",
+          "id": 38,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "6": {
+          "title": "vi. Dos Secretários (26-27)",
+          "id": 39,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "7": {
+          "title": "vii. Das Contas da Mesa (28-29)",
+          "id": 40,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "8": {
+          "title": "viii. Da Renúncia e Destituição da Mesa (30-37)",
+          "id": 41,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-2": {
+      "title": "IV. DO PLENÁRIO (101-105)",
+      "id": 12,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-3": {
+      "title": "VI. DAS SESSÕES (132-210)",
+      "id": 14,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "i. Disposições preliminares\n",
+          "id": "65.gd30a210334d4162d7",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Das espécies de sessão e de sua abertura (132-138)",
+              "id": "67.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "2": {
+              "title": "Do uso da palavra (139-140)",
+              "id": "68.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "3": {
+              "title": "Da suspensão e do encerramento da Sessão\n (141-142)\n",
+              "id": "70.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "4": {
+              "title": "Da prorrogação da Sessões (143-145)\n",
+              "id": "71.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "5": {
+              "title": "Da Ata e da Imprensa Oficial (146-150)",
+              "id": "72.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "ii. Das Sessões Ordinárias",
+          "id": "73.gd30a210334d4162d7",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Disposições preliminares (151-156)\n",
+              "id": "75.gd30a210334d4162d7",
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "2": {
+              "title": "Do Pequeno Expediente (157-158)\n",
+              "id": "77.gd30a210334d4162d7",
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "3": {
+              "title": "Do Grande Expediente (159-162)\n",
+              "id": "79.gd30a210334d4162d7",
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "4": {
+              "title": "Do prolongamento do Expediente (163-169)\n",
+              "id": "81.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "5": {
+              "title": "Da ordem do dia (170-178)\n",
+              "id": "82.gd30a210334d4162d7",
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "6": {
+              "title": "Da explicação pessoal (179-182)\n",
+              "id": "84.gd30a210334d4162d7",
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "7": {
+              "title": "Das Sessões Extraordinárias (183-192)\n",
+              "id": "86.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "8": {
+              "title": "Das Sessões Solenes (193-194)\n",
+              "id": "87.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "9": {
+              "title": "Das Sessões Secretas (195-201)\n",
+              "id": "88.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "10": {
+              "title": "Das Sessões Permanentes (202-206)\n",
+              "id": "89.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            },
+            "11": {
+              "title": "Da Tribuna Popular (207-210)\n",
+              "id": "90.gd30a210334d4162d7",
+              "attr": {
+                "style": {
+                  "background": "#666699"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-4": {
+      "title": "VIII. DOS DEBATES E DELIBERAÇÕES (276-286)",
+      "id": 16,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "i. Da Discussão",
+          "id": "117.gd30a210334d4162d7",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      }
+    },
+    "-5": {
+      "title": "X. DA FASE ESPECIAL DA SESSÃO LEGISLATIVA\n(324-328)\n",
+      "id": 19,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-6": {
+      "title": "XII. DA SANÇÃO, DO VETO, DA PROMULGAÇÃO E\n   REGISTROS DE LEIS, DECRETOS LEGISLATIVOS\n  E RESOLUÇÕES (360-371)\n",
+      "id": 21,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-7": {
+      "title": "XIV. DA POLÍCIA INTERNA (374-378)\n",
+      "id": 23,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-8": {
+      "title": "XVI. DA REFORMA DO REGIMENTO INTERNO (392-395)\n",
+      "id": 25,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    }
+  },
+  "links": []
+}
