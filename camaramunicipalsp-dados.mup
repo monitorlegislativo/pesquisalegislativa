@@ -1,0 +1,565 @@
+{
+  "title": "Dados da Câmara Municipal de São Paulo",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Vereadores",
+      "id": 2,
+      "ideas": {
+        "2": {
+          "title": "Votações",
+          "id": 11,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "3": {
+          "title": "Descrição",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "Registro",
+              "id": 16
+            },
+            "2": {
+              "title": "Nome",
+              "id": 17
+            },
+            "3": {
+              "title": "Nome Parlamentar",
+              "id": 18
+            },
+            "4": {
+              "title": "Liderança",
+              "id": 20
+            },
+            "5": {
+              "title": "Mesa Diretora",
+              "id": 22
+            },
+            "6": {
+              "title": "Legislatura",
+              "id": 24
+            },
+            "7": {
+              "title": "Vereança",
+              "id": 25
+            },
+            "8": {
+              "title": "Comissões Permanentes",
+              "id": 26
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "13": {
+          "title": "Presença em Plenario",
+          "id": 10,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "14": {
+          "title": "Redes Sociais",
+          "id": "145.gd564c917036805c4a",
+          "ideas": {
+            "1": {
+              "title": "Twitter",
+              "id": "146.gd564c917036805c4a"
+            },
+            "2": {
+              "title": "Youtube",
+              "id": "147.gd564c917036805c4a"
+            },
+            "3": {
+              "title": "Facebook",
+              "id": "148.gd564c917036805c4a"
+            },
+            "4": {
+              "title": "Site",
+              "id": "149.gd564c917036805c4a"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "15": {
+          "title": "Emendas Orçamentarias",
+          "id": "151.gd564c917036805c4a",
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Recursos Humanos",
+      "id": 5,
+      "ideas": {
+        "2": {
+          "title": "Funcionario",
+          "id": "96.gd35a38ac40eb0ed2e",
+          "ideas": {
+            "1": {
+              "title": "Nome do Servidor",
+              "id": "95.gd35a38ac40eb0ed2e",
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "2": {
+              "title": "Descrição",
+              "id": "99.gd35a38ac40eb0ed2e",
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "3": {
+              "title": "Centro de Custos",
+              "id": "101.gd35a38ac40eb0ed2e",
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc99"
+        }
+      }
+    },
+    "3": {
+      "title": "Comissões",
+      "id": "125.gd564c917036805c4a",
+      "ideas": {
+        "1": {
+          "title": "Pauta (só atual)",
+          "id": "127.gd564c917036805c4a",
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "2": {
+          "title": "Presença (2009-2013)",
+          "id": "130.gd564c917036805c4a",
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "3": {
+          "title": "Votação (2012-2013)",
+          "id": "131.gd564c917036805c4a",
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "4": {
+          "title": "Ata (2012-2013)",
+          "id": "132.gd564c917036805c4a",
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "title": "Sessões Plenarias",
+      "id": "135.gd564c917036805c4a",
+      "ideas": {
+        "1": {
+          "title": "Pauta (só atual)",
+          "id": "136.gd564c917036805c4a",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "Registro Completo (2009-2013)",
+          "id": "138.gd564c917036805c4a",
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            }
+          }
+        },
+        "3": {
+          "title": "Condição de Pauta",
+          "id": "140.gd564c917036805c4a",
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "4": {
+          "title": "Vídeos",
+          "id": "144.gd564c917036805c4a"
+        }
+      }
+    },
+    "-2": {
+      "title": "Orçamento",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "dotações orçamentárias ",
+          "id": "108.gd7b78db792fe22620",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "ficha",
+              "id": "110.gd7b78db792fe22620"
+            },
+            "2": {
+              "title": "dotação",
+              "id": "112.gd7b78db792fe22620"
+            },
+            "3": {
+              "title": "especificação",
+              "id": "113.gd7b78db792fe22620"
+            },
+            "4": {
+              "title": "orçado",
+              "id": "114.gd7b78db792fe22620"
+            },
+            "5": {
+              "title": "suplementado",
+              "id": "115.gd7b78db792fe22620"
+            },
+            "6": {
+              "title": "anulado",
+              "id": "116.gd7b78db792fe22620"
+            },
+            "7": {
+              "title": "contigenciado",
+              "id": "117.gd7b78db792fe22620"
+            },
+            "8": {
+              "title": "emprenhado-periodo",
+              "id": "118.gd7b78db792fe22620"
+            },
+            "9": {
+              "title": "empenhado-acumulado",
+              "id": "119.gd7b78db792fe22620"
+            },
+            "10": {
+              "title": "pago-periodo",
+              "id": "120.gd7b78db792fe22620"
+            },
+            "11": {
+              "title": "pago-acumulado",
+              "id": "121.gd7b78db792fe22620"
+            },
+            "12": {
+              "title": "saldo-empenhar",
+              "id": "122.gd7b78db792fe22620"
+            },
+            "13": {
+              "title": "saldo-pagar",
+              "id": "123.gd7b78db792fe22620"
+            }
+          }
+        }
+      }
+    },
+    "-3": {
+      "title": "Tramitação",
+      "id": "89.gd35a38ac40eb0ed2e",
+      "ideas": {
+        "1": {
+          "title": "Produção Legislativa",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Tipo de Projeto",
+              "id": 30
+            },
+            "2": {
+              "title": "Número do Projeto",
+              "id": 32
+            },
+            "3": {
+              "title": "Data do Projeto",
+              "id": 34
+            },
+            "4": {
+              "title": "Promovente",
+              "id": 36
+            },
+            "5": {
+              "title": "Ementa",
+              "id": 38
+            },
+            "6": {
+              "title": "Assunto",
+              "id": 40
+            },
+            "10": {
+              "title": "Promulgação",
+              "id": "46.gd35a38ac40eb0ed2e",
+              "ideas": {
+                "1": {
+                  "title": "Data da Norma",
+                  "id": "45.gd35a38ac40eb0ed2e"
+                },
+                "2": {
+                  "title": "Número da norma",
+                  "id": 44
+                },
+                "3": {
+                  "title": "Tipo de Norma",
+                  "id": 42
+                }
+              }
+            },
+            "11": {
+              "title": "Comissões Designadas",
+              "id": "48.gd35a38ac40eb0ed2e"
+            },
+            "12": {
+              "title": "Tramitação",
+              "id": "50.gd35a38ac40eb0ed2e",
+              "ideas": {
+                "1": {
+                  "title": "Sigla da Unidade",
+                  "id": "54.gd35a38ac40eb0ed2e"
+                },
+                "2": {
+                  "title": "Data de Recebimento",
+                  "id": "56.gd35a38ac40eb0ed2e"
+                },
+                "3": {
+                  "title": "Data de Encaminhamento",
+                  "id": "58.gd35a38ac40eb0ed2e"
+                }
+              }
+            },
+            "13": {
+              "title": "Deliberação",
+              "id": "52.gd35a38ac40eb0ed2e",
+              "ideas": {
+                "1": {
+                  "title": "Resultado da Votação",
+                  "id": "61.gd35a38ac40eb0ed2e"
+                },
+                "2": {
+                  "title": "Número da Discussão",
+                  "id": "63.gd35a38ac40eb0ed2e"
+                },
+                "3": {
+                  "title": "Sessão",
+                  "id": "65.gd35a38ac40eb0ed2e",
+                  "ideas": {
+                    "1": {
+                      "title": "Tipo",
+                      "id": "67.gd35a38ac40eb0ed2e"
+                    },
+                    "2": {
+                      "title": "Número",
+                      "id": "68.gd35a38ac40eb0ed2e",
+                      "ideas": {}
+                    },
+                    "3": {
+                      "title": "Legislatura",
+                      "id": "70.gd35a38ac40eb0ed2e"
+                    },
+                    "4": {
+                      "title": "Data",
+                      "id": "71.gd35a38ac40eb0ed2e"
+                    }
+                  }
+                }
+              }
+            },
+            "14": {
+              "title": "Encaminhamento",
+              "id": "72.gd35a38ac40eb0ed2e",
+              "ideas": {
+                "1": {
+                  "title": "Documento Encaminhado",
+                  "id": "73.gd35a38ac40eb0ed2e",
+                  "ideas": {
+                    "1": {
+                      "title": "Tipo",
+                      "id": "74.gd35a38ac40eb0ed2e"
+                    },
+                    "2": {
+                      "title": "Sigla",
+                      "id": "75.gd35a38ac40eb0ed2e"
+                    },
+                    "3": {
+                      "title": "Ano",
+                      "id": "77.gd35a38ac40eb0ed2e"
+                    },
+                    "4": {
+                      "title": "Data de emissão",
+                      "id": "78.gd35a38ac40eb0ed2e"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Tipo de Encaminhamento",
+                  "id": "79.gd35a38ac40eb0ed2e"
+                },
+                "3": {
+                  "title": "Observações",
+                  "id": "80.gd35a38ac40eb0ed2e"
+                },
+                "4": {
+                  "title": "Destinatário",
+                  "id": "81.gd35a38ac40eb0ed2e"
+                },
+                "5": {
+                  "title": "Sigla do Destinatário",
+                  "id": "83.gd35a38ac40eb0ed2e"
+                }
+              }
+            },
+            "15": {
+              "title": "Encerramento",
+              "id": "84.gd35a38ac40eb0ed2e",
+              "ideas": {
+                "1": {
+                  "title": "Data do encerramento",
+                  "id": "87.gd35a38ac40eb0ed2e"
+                },
+                "2": {
+                  "title": "Motivo do encerramento",
+                  "id": "88.gd35a38ac40eb0ed2e"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Tipos de Matérias Legislativas",
+          "id": "91.gd35a38ac40eb0ed2e",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "3": {
+          "title": "Categorias de Assuntos",
+          "id": "92.gd35a38ac40eb0ed2e",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "4": {
+          "title": "Lista de Unidades",
+          "id": "93.gd35a38ac40eb0ed2e",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "5": {
+          "title": "Processo Legislativo Digitalizado",
+          "id": "104.gd35a38ac40eb0ed2e",
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "6": {
+          "title": "Projeto Legislativo Digitalizado",
+          "id": "152.gd564c917036805c4a",
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        }
+      }
+    },
+    "-4": {
+      "title": "Audiências Públicas",
+      "id": "133.gd564c917036805c4a",
+      "ideas": {
+        "1": {
+          "title": "Atas (2011-2012)",
+          "id": "134.gd564c917036805c4a",
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "2": {
+          "title": "Vídeos",
+          "id": "142.gd564c917036805c4a"
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": "135.gd564c917036805c4a",
+      "ideaIdTo": 10,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 11,
+      "ideaIdTo": "135.gd564c917036805c4a",
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
+}
