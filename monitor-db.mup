@@ -1,0 +1,626 @@
+{
+  "title": "Monitor Legislativo (Banco de Dados)",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Vereador",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "vereador.txt",
+          "id": 60,
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://www2.camara.sp.gov.br/Dados_abertos/vereador/vereador.txt\">http://www2.camara.sp.gov.br/Dados_abertos/vereador/vereador.txt</a><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">Registro#Nome#NomeParlamentar#LiderPartido^iDataIn^fDataFin^cCargo#^cMesaCargo^iInicioCargo^fFimCargo^bObservacao#^pPeriodoHistorico^nNumeroLegislatura^sSituacao^qQuantVotos#^iVereancaDataIn^fVereancaDataFin^situacao^pPartido^bNomeVereadorSaiu^cObsPartido^dObsVereanca#^nComissaoNome^iDataIn^fDataFin^cCargo^dObs\n40001#Aloysio de Menezes Greenhalgh#Aloísio Greenhalgh####^p3^n1^sSuplente^q1608%#^i01/01/1948^f31/12/1951^svereador^pPTB^bMeir Banaim^dAssumiu em caráter efetivo o mandato de vereador em 01/01/1948 substuindo Meir Benaim cassado pelo TSE em 31/12/1947.%#^nComissão de Serviços de Utilidade Pública^i10/03/1948^f31/12/1948^cPresidente%^nComissão de Justiça^i05/01/1949^f31/12/1949^cMembro%^nComissão de Estatística, Cadastro, Fomento Econômico e Ruralismo^i03/03/1950^f31/12/1950^cVice-Presidente%^nComissão de Justiça^i26/01/1951^f31/12/1951^cMembro%\n40002#Altimar Ribeiro de Lima#####^p3^n1^sSuplente^q1603%^p3^n2^sVereador^q5984%^p3^n3^sVereador^q7544%#^i01/01/1948^f31/12/1951^svereador^pPSP^bCalil Chade^dAssumiu em caráter efetivo o mandato de vereador em 01/01/1948 substuindo Calil Chade cassado pelo TSE em 31/12/1947.%^i01/01/1952^f31/12/1955^svereador^pPSP^dLicenciou-se de 04/02/1955 a 21/06/1955, para ocupar o cargo de Secretário Municipal de Obras%^i01/01/1956^f10/03/1959^svereador^pPSD^dLicenciou-se de 25/09/1957 a 06/08/1958, para ocupar o cargo de Secretário Municipal de Obras - Renunciou ao mandato de Vereador em 11/03/1959, por ter sido eleito Deputado Estadual.%#^nComissão de Serviços de Utilidade Pública^i03/03/1948^f31/12/1948^cMembro%^nComissão de Urbanismo, Obras e Serviços Públicos^i17/01/1949^f31/12/1949^cPresidente%^nComissão de Urbanismo, Obras e Serviços Públicos^i01/02/1950^f31/12/1950^cMembro%^nComissão de Serviços de Utilidade Pública^i19/02/1951^f31/12/1951^cPresidente%^nComissão de Urbanismo, Obras e Serviços Públicos^i11/02/1952^f31/12/1952^cPresidente%^nComissão de Urbanismo, Obras e Serviços Públicos^i30/01/1953^f31/12/1953^cVice-Presidente%^nComissão de Serviços de Utilidade Pública^i30/01/1953^f31/12/1953^cMembro%^nComissão de Urbanismo, Obras e Serviços Públicos^i01/02/1954^f31/12/1954^cMembro%^nComissão de Urbanismo, Obras e Serviços Públicos^i26/01/1955^f31/12/1955^cVice-Presidente%^nComissão de Urbanismo, Obras e Serviços Públicos^i00/00/1956^f31/12/1956^cPresidente%^nComissão de Urbanismo, Obras e Serviços Públicos^i30/01/1957^f31/12/1957^cPresidente%^nComissão de Serviços de Utilidade Pública^i27/01/1958^f31/12/1958^cVice-Presidente%^nComissão de Serviços de Utilidade Pública^i19/02/1951^f31/12/1951^cPresidente%</pre></div>"
+            }
+          }
+        },
+        "2": {
+          "title": "Registro",
+          "id": 64,
+          "ideas": {}
+        },
+        "3": {
+          "title": "Nome",
+          "id": 66,
+          "ideas": {
+            "1": {
+              "title": "Nome Parlamentar",
+              "id": 68,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "Nome Real",
+              "id": 70
+            },
+            "3": {
+              "title": "Nome de Urna (?)",
+              "id": 71
+            }
+          }
+        },
+        "6": {
+          "title": "Legislaturas",
+          "id": 80,
+          "ideas": {
+            "2": {
+              "title": "Vereanças",
+              "id": 81,
+              "ideas": {
+                "1": {
+                  "title": "Cargos",
+                  "id": 75,
+                  "ideas": {
+                    "1": {
+                      "title": "Liderança",
+                      "id": 76
+                    },
+                    "2": {
+                      "title": "Comissões Permanentes",
+                      "id": 77
+                    },
+                    "3": {
+                      "title": "Mesa Diretora",
+                      "id": 79,
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Partido",
+                  "id": 78,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Comissões (Unidades)",
+      "id": 43,
+      "ideas": {
+        "1": {
+          "title": "unidades.xml",
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://www2.camara.sp.gov.br/projetos/unidades.xml\">http://www2.camara.sp.gov.br/projetos/unidades.xml</a>"
+            },
+            "style": {
+              "background": "#ff6600"
+            }
+          },
+          "id": 83
+        }
+      }
+    },
+    "-1": {
+      "title": "Projetos",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Nome (Tipo NUMERO/ANO)",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "projetos.txt",
+              "id": 6,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://www2.camara.sp.gov.br/projetos/projetos.txt\">http://www2.camara.sp.gov.br/projetos/projetos.txt</a><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">TipoProj#NoProj#DataProj#Ementa#TipoNorma#NumeroNorma#DataNorma\npl#1#07/01/1948#DISPOE SOBRE ISENCAO DE IMPOSTO A JORNALISTAS.#LEI#3.741#17/01/1949\npl#2#19/01/1948#DA A DENOMINACAO DE SILVIA CELESTE DE CAMPOS A UMA DAS VIAS PUBLICAS DO MUNICIPIO.#LEI#3.699#05/07/1948\npl#3#19/01/1948#CRIA A SECRETARIA DE ASSISTENCIA SOCIAL NO MUNICIPIO###\npl#4#26/01/1948#DA A DENOMINACAO DE DR. CINCINATO PAMPONET A UMA DAS RUAS DO DISTRITO DA LAPA.#lei#3.690#12/05/1948</pre></div>"
+                },
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Tipo",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "tipo_materia_legislativa.xml",
+              "id": 50,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://www2.camara.sp.gov.br/projetos/tipo_materia_legislativa.xml\">http://www2.camara.sp.gov.br/projetos/tipo_materia_legislativa.xml</a>"
+                },
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Numero",
+          "id": 8
+        },
+        "4": {
+          "title": "Ano",
+          "id": 9
+        },
+        "5": {
+          "title": "Norma",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Tipo",
+              "id": 11
+            },
+            "2": {
+              "title": "Numero",
+              "id": 12
+            },
+            "3": {
+              "title": "Data",
+              "id": 14
+            },
+            "4": {
+              "title": "Texto",
+              "id": 34
+            },
+            "5": {
+              "title": "Ementa",
+              "id": 58
+            }
+          }
+        },
+        "6": {
+          "title": "Justificativa",
+          "id": 18,
+          "ideas": {}
+        },
+        "7": {
+          "title": "Autor",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "autor.txt",
+              "id": 36,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://www2.camara.sp.gov.br/projetos/autor.txt\">http://www2.camara.sp.gov.br/projetos/autor.txt</a><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">TipoProj#NoProj#DataProj#Autor\npl#1#07/01/1948#JOSE DE MOURA\npl#2#19/01/1948#REINALDO SMITH DE VASCONCELOS\npl#2#19/01/1948#E OUTROS\npl#3#19/01/1948#ROBERTO GRASSI\npl#4#26/01/1948#ROBERTO GRASSI</pre></div>"
+                },
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "title": "Comissões Designadas",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "comdes.txt",
+              "id": 42,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://www2.camara.sp.gov.br/projetos/comdes.txt\">http://www2.camara.sp.gov.br/projetos/comdes.txt</a><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">TipoProj#NoProj#DataProj#ComissoesDesignadas\nPDL#1#04/02/1992#CONSTITUICAO E JUSTICA - JUST\nPDL#1#04/02/1992#EDUCACAO, CULTURA E ESPORTES - EDUC\nPDL#1#04/02/1992#FINANCAS E ORCAMENTO - FIN\nPL#1#04/02/1992#CONSTITUICAO E JUSTICA - JUST</pre></div>"
+                },
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "Tramitação",
+          "id": 24,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "tramita.txt",
+              "id": 48,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://www2.camara.sp.gov.br/projetos/tramita.txt\">http://www2.camara.sp.gov.br/projetos/tramita.txt</a><div><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">TipoProj#NoProj#DataProj#Tramitacao\nPDL#1#04/02/1992#ATM#04/02/1992#12/02/1992\nPDL#1#04/02/1992#JUST#12/02/1992#25/02/1992\nPDL#1#04/02/1992#ATM#25/02/1992#25/02/1992\nPDL#1#04/02/1992#SSP31#25/02/1992#27/04/1992\nPDL#1#04/02/1992#ATM#27/04/1992#27/04/1992\nPDL#1#04/02/1992#JUST#27/04/1992#08/05/1992</pre></div></div>"
+                },
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "title": "Pareceres",
+          "id": 25,
+          "ideas": {
+            "1": {
+              "title": "prolegpa.txt",
+              "id": 52,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div><a href=\"http://www2.camara.sp.gov.br/projetos/prolegpa.txt\">http://www2.camara.sp.gov.br/projetos/prolegpa.txt</a><br></div><div><br></div><div><a href=\"http://camaramunicipalsp.qaplaweb.com.br/iah/fulltext/parecer/JUST0117-1991.pdf\">http://camaramunicipalsp.qaplaweb.com.br/iah/fulltext/parecer/JUST0117-1991.pdf</a>&nbsp;<b>[ATENÇÃO para as maiusculas]</b><br></div><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">pdl#1#1991#just0117-1991.pdf\npdl#1#1991#educ0191-1991.pdf\npdl#1#1991#fin0270-1991.pdf\npdl#4#1991#conj0409-1991.pdf\npdl#5#1991#conj0410-1991.pdf</pre></div>"
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "Substitutivos",
+          "id": 27,
+          "ideas": {
+            "1": {
+              "title": "prolegs.txt",
+              "id": 51,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://www2.camara.sp.gov.br/projetos/prolegs.txt\" target=\"_blank\">http://www2.camara.sp.gov.br/projetos/prolegs.txt</a><div><span style=\"color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 13px; line-height: normal;\"><br class=\"Apple-interchange-newline\"></span><a href=\"http://camaramunicipalsp.qaplaweb.com.br/iah/fulltext/substitutivo/SPL0521-1993.pdf\">http://camaramunicipalsp.qaplaweb.com.br/iah/fulltext/substitutivo/SPL0521-1993.pdf</a> <b>[atenção no CAPS]</b><br></div><div><span style=\"color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 13px; line-height: normal;\"><br></span></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">TipoProj#NoProj#AnoProj#TextoSubstitutivo\npl#521#1993#spl0521-1993.pdf\npl#136#1994#spl0136-1994.pdf\npl#136#1994#spl0136-1994-01.pdf\npl#477#1994#spl0477-1994.pdf\npl#596#1994#spl0596-1994.pdf</pre></div>"
+                },
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "title": "Emendas",
+          "id": 28,
+          "ideas": {
+            "1": {
+              "title": "Incompleto",
+              "id": 53,
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              }
+            }
+          }
+        },
+        "13": {
+          "title": "Deliberação",
+          "id": 30,
+          "ideas": {
+            "1": {
+              "title": "delibera.txt",
+              "id": 45,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div><a href=\"http://www2.camara.sp.gov.br/projetos/delibera.txt\">http://www2.camara.sp.gov.br/projetos/delibera.txt</a><br></div><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">TipoProj#NoProj#DataProj#Deliberacao\nPDL#1#04/02/1992#APROVADO EM DISCUSSAO UNICA - Sessão EXTRAORDINÁRIA 218, Legislatura 10 em 21/10/1992.\nPLO#2#12/02/1992#APROVADO EM PRIMEIRA DISCUSSÃO - Sessão EXTRAORDINÁRIA 177, Legislatura 10 em 23/04/1992.\nPLO#3#19/02/1992#APROVADO EM PRIMEIRA DISCUSSÃO - Sessão EXTRAORDINÁRIA 205, Legislatura 10 em 08/09/1992.\nPLO#3#19/02/1992#APROVADO EM SEGUNDA DISCUSSÃO - Sessão EXTRAORDINÁRIA 12, Legislatura 11 em 13/04/1993.</pre></div>"
+                }
+              }
+            }
+          }
+        },
+        "14": {
+          "title": "Encaminhamento",
+          "id": 32,
+          "ideas": {
+            "1": {
+              "title": "encaminha.txt",
+              "id": 46,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div><a href=\"http://www2.camara.sp.gov.br/projetos/encami.txt\">http://www2.camara.sp.gov.br/projetos/encami.txt</a><br></div><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">TipoProj#NoProj#DataProj#Encaminhamento\nPL#1#04/02/1992#Oficio CMSP 300028/1992 de 06/03/1992 SOLICITA INFORMACOES SOBRE PROJETOS com prazo para resposta de 30 dias, enviado para PREFEITURA DO MUNICÍPIO DE SÃO PAULO  - PMSP\nPL#1#04/02/1992#Oficio CMSP 300091/1992 de 14/04/1992 SOLICITA INFORMACOES SOBRE PROJETOS com prazo para resposta de 30 dias, enviado para PREFEITURA DO MUNICÍPIO DE SÃO PAULO  - PMSP\nPL#1#04/02/1992#ENCAMINHA INFORMACOES SOBRE PROJETOS, recebido em 28/04/1992, enviado pelo(a) PREFEITURA DO MUNICÍPIO DE SÃO PAULO - PMSP, encaminha informações solicitadas pela com de pol u rbana, so-  bre o pl 01/92, do executivo, atraves do Documento Recebido nro. 120/1992\nPL#1#04/02/1992#Oficio CMSP 300168/1992 de 27/05/1992 SOLICITA INFORMACOES SOBRE PROJETOS com prazo para resposta de 30 dias, enviado para PREFEITURA DO MUNICÍPIO DE SÃO PAULO  - PMSP</pre></div>"
+                },
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            }
+          }
+        },
+        "15": {
+          "title": "Encerramento",
+          "id": 33,
+          "ideas": {
+            "1": {
+              "title": "encerra.txt",
+              "id": 47,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div><a href=\"http://www2.camara.sp.gov.br/projetos/encerra.txt\">http://www2.camara.sp.gov.br/projetos/encerra.txt</a><br></div><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">TipoProj#NoProj#DataProj#Encerramento\nPDL#1#04/02/1992#15/12/1992#PROMULGADO\nPL#1#04/02/1992#11/10/1994#RETIRADO PELO AUTOR\nPR#1#05/02/1992#26/02/1993#TERMINO DE LEGISLATURA (ART. 275 REG. INT.)\nPLO#1#06/02/1992#26/02/1993#TERMINO DE LEGISLATURA (ART. 275 REG. INT.)\nPL#2#04/02/1992#18/03/1993#RETIRADO PELO AUTOR</pre></div>"
+                },
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            }
+          }
+        },
+        "16": {
+          "title": "Texto",
+          "id": 35,
+          "ideas": {
+            "1": {
+              "title": "prolegp.txt",
+              "id": 54,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div><a href=\"http://www2.camara.sp.gov.br/projetos/prolegp.txt\">http://www2.camara.sp.gov.br/projetos/prolegp.txt</a><br></div><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">TipoProj#NoProj#AnoProj#TextoRedacaoFinal#TextoJustificativa#TextoVeto#Observacao#TipoNorma#NumeroNorma#DataNorma#EmentaNorma#TextoNorma\nPLO#1#1991##jpl0046-2011.pdf###EMENDA#8#29/08/1991#Acrescenta o inciso XXII ao art. 14 e o inciso V ao par. 5º do art. 40 da Lei Organica do Municipio.#E891.pdf\npr#1#1991#####Resolução da CMSP#6#06/06/1991#Dispoe sobre a participaçao da Camara Municipal de Sao Paulo, nas comemoraçoes relativas ao aniversario da Cidade de Sao Paulo, no dia 25 de janeiro.#RC691.pdf\npdl#1#1991#####\npl#1#1991#####LEI#11.177#08/04/1992#Proibe, no Municipio de Sao Paulo, o abastecimento de veiculos com alcool-metanol pelo sistema \"Self-Service\", e da outras providencias.#L11177.pdf\nPLO#2#1991#####\npr#2#1991#####</pre></div>"
+                }
+              }
+            },
+            "2": {
+              "title": "Redação Final",
+              "id": 55
+            }
+          }
+        },
+        "17": {
+          "title": "Veto",
+          "id": 59
+        },
+        "4.5": {
+          "title": "Ementa",
+          "id": 16,
+          "attr": {
+            "position": [
+              80,
+              54,
+              1
+            ],
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "7.5": {
+          "title": "Assunto",
+          "id": 23,
+          "ideas": {
+            "1": {
+              "title": "assunto.txt",
+              "id": 37,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div><a href=\"http://www2.camara.sp.gov.br/projetos/assunto.txt\">http://www2.camara.sp.gov.br/projetos/assunto.txt</a><br></div><div><br></div><div><pre style=\"color: rgb(0, 0, 0); line-height: normal;\">TipoProj#NoProj#DataProj#Assunto\npl#1#07/01/1948#ISENCAO\npl#1#07/01/1948#IMPOSTO PREDIAL\npl#1#07/01/1948#IPTU\npl#1#07/01/1948#IMOVEL\npl#1#07/01/1948#CASA PROPRIA</pre></div>"
+                }
+              }
+            },
+            "2": {
+              "title": "catalogo_assuntos.xml",
+              "id": 40,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://www2.camara.sp.gov.br/projetos/catalogo_assuntos.xml\">http://www2.camara.sp.gov.br/projetos/catalogo_assuntos.xml</a>"
+                }
+              }
+            }
+          }
+        },
+        "4.25": {
+          "title": "Data",
+          "id": 17
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 6,
+      "ideaIdTo": 7,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 6,
+      "ideaIdTo": 8,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 6,
+      "ideaIdTo": 9,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 6,
+      "ideaIdTo": 10,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 6,
+      "ideaIdTo": 16,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 17,
+      "ideaIdTo": 6,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 20,
+      "ideaIdTo": 2,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 42,
+      "ideaIdTo": 43,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 43,
+      "ideaIdTo": 2,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 48,
+      "ideaIdTo": 43,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 52,
+      "ideaIdTo": 43,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 54,
+      "ideaIdTo": 18,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 55,
+      "ideaIdTo": 54,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 34,
+      "ideaIdTo": 54,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 58,
+      "ideaIdTo": 54,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 59,
+      "ideaIdTo": 54,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 77,
+      "ideaIdTo": 43,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
+}
